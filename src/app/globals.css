@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Source Sans 3', sans-serif;
+
+  --color-background: hsl(36, 33%, 97%);
+  --color-foreground: hsl(30, 20%, 22%);
+  --color-card: hsl(0, 0%, 100%);
+  --color-card-foreground: hsl(30, 20%, 22%);
+  --color-primary: hsl(140, 18%, 55%);
+  --color-primary-foreground: hsl(0, 0%, 100%);
+  --color-secondary: hsl(45, 30%, 92%);
+  --color-secondary-foreground: hsl(30, 20%, 22%);
+  --color-muted: hsl(45, 15%, 92%);
+  --color-muted-foreground: hsl(30, 10%, 46%);
+  --color-accent: hsl(14, 45%, 65%);
+  --color-accent-foreground: hsl(0, 0%, 100%);
+  --color-border: hsl(40, 18%, 88%);
+
+  --color-teal: hsl(170, 30%, 72%);
+  --color-teal-light: hsl(170, 25%, 92%);
+  --color-teal-dark: hsl(170, 30%, 50%);
+  --color-coral: hsl(14, 45%, 65%);
+  --color-coral-light: hsl(14, 35%, 94%);
+  --color-gold: hsl(45, 55%, 68%);
+  --color-gold-light: hsl(45, 45%, 92%);
+  --color-village-green: hsl(140, 18%, 55%);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
