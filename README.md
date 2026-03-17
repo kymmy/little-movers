@@ -2,9 +2,9 @@
 
 **English Movement & Confidence Club** for children aged 4 months to 6 years.
 
-**Live:** https://little-movers.vercel.app
+**Live:** https://little-movers.le-village-marseille.fr
 
-**Portal:** https://le-village-portal.vercel.app
+**Portal:** https://le-village-marseille.fr
 
 ---
 
@@ -33,7 +33,7 @@ npm run dev    # http://localhost:3000
 
 | Project | URL | Repo |
 |---------|-----|------|
-| Portal | [le-village-portal.vercel.app](https://le-village-portal.vercel.app) | [kymmy/le-village-portal](https://github.com/kymmy/le-village-portal) |
-| Entourage | [tribu.vercel.app](https://tribu.vercel.app) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
-| Little Movers (this) | [little-movers.vercel.app](https://little-movers.vercel.app) | This repo |
-| Amour Toujours | [amour-toujours.vercel.app](https://amour-toujours.vercel.app) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
+| Portal | [le-village-marseille.fr](https://le-village-marseille.fr) | [kymmy/le-village-portal](https://github.com/kymmy/le-village-portal) |
+| Entourage | [tribu.le-village-marseille.fr](https://tribu.le-village-marseille.fr) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
+| Little Movers (this) | [little-movers.le-village-marseille.fr](https://little-movers.le-village-marseille.fr) | This repo |
+| Amour Toujours | [amour-toujours.le-village-marseille.fr](https://amour-toujours.le-village-marseille.fr) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
