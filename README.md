@@ -34,6 +34,6 @@ npm run dev    # http://localhost:3000
 | Project | URL | Repo |
 |---------|-----|------|
 | Portal | [le-village-portal.vercel.app](https://le-village-portal.vercel.app) | [kymmy/le-village-portal](https://github.com/kymmy/le-village-portal) |
-| Entourage | [coco-app-three.vercel.app](https://coco-app-three.vercel.app) | [kymmy/coco-app](https://github.com/kymmy/coco-app) |
+| Entourage | [tribu.vercel.app](https://tribu.vercel.app) | [kymmy/tribu-app](https://github.com/kymmy/tribu-app) |
 | Little Movers (this) | [little-movers.vercel.app](https://little-movers.vercel.app) | This repo |
 | Amour Toujours | [amour-toujours.vercel.app](https://amour-toujours.vercel.app) | [kymmy/amour-toujours](https://github.com/kymmy/amour-toujours) |
