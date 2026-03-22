@@ -67,7 +67,7 @@ export default function LittleMoversPage() {
       <nav className="sticky top-0 z-50 backdrop-blur bg-background/80 border-b border-border">
         <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
           <a
-            href="https://le-village.fr"
+            href="https://le-village-marseille.fr"
             className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
           >
             <ArrowLeft className="w-4 h-4" />
