@@ -75,12 +75,13 @@ export default function LittleMoversPage() {
           </a>
           <div className="flex items-center gap-4">
             <LanguageToggle />
-            <span
-              className="text-xs font-semibold bg-primary text-primary-foreground px-3 py-1 rounded-full"
+            <a
+              href="https://le-village-marseille.fr"
+              className="text-xs font-semibold bg-primary text-primary-foreground px-3 py-1 rounded-full hover:opacity-90 transition-opacity"
               style={{ fontFamily: "var(--font-display)" }}
             >
               Le Village
-            </span>
+            </a>
           </div>
         </div>
       </nav>
